@@ -1,4 +1,4 @@
-# Multithreaded-WebServer-In-Rust
+# RustyGate: Multithreaded-WebServer-In-Rust
 
 A high-performance, multithreaded web server built with Rust featuring user authentication, role-based access control, and load balancing capabilities.
 
